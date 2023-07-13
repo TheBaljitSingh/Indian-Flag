@@ -1,6 +1,6 @@
 # Indian-Flag
 This is Indian Flag
 
-#Language Usesd
+# Language Usesd
 - HTML
 - CSS
