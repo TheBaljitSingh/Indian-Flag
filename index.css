@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    background-color: black;
+}
+
+
+.main{
+    position: relative;
+   top: 250px;
+   margin: auto;
+    background-color: #fff;
+    width: 300px;
+    height: 201px;
+}
+.top{
+    position: absolute;
+    background-color: #ff9a30;
+    width: 300px;
+    height: 67px;
+}
+.bottom{
+    position: absolute;
+    background-color: #0a8901;
+    width: 300px;
+    height: 67px;
+    top: 134px;
+}
+.middle{
+    position: absolute;
+    height: 67px;
+    top: 67px;
+    left: 105px;
+}
