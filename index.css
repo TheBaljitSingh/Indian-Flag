@@ -11,6 +11,9 @@ body{
     background-color: #fff;
     width: 300px;
     height: 201px;
+    -moz-box-shadow: 0 0 3px #ccc;
+    -webkit-box-shadow: 0 0 3px #ccc;
+    box-shadow: 0 0 3px #ccc;
 }
 .top{
     position: absolute;
